@@ -1,4 +1,4 @@
-# [Taller Polimorfismo](https://github.com/danielm2402/LabSoftware2TallerPolimorfismo)
+# [Ejemplo polimorfismo](https://github.com/danielm2402/polymorphism-example)
 
 Taller presentado en el Laboratorio De Ingeniería de Software II 
 
